@@ -2,7 +2,6 @@
 
 A research/ML project that generates real-time facial animation (ARKit-style blendshapes) directly from Serbian speech audio — the kind of model that drives a talking 3D avatar's lip-sync and facial expression from a voice recording, with no video or motion-capture input needed.
 
-> **Status:** Single Colab notebook, kept here as a **code showcase** of the modeling/training/evaluation pipeline. It's meant to be read and run in Google Colab against the author's private dataset/checkpoints on Google Drive — it isn't a standalone, pip-installable package.
 
 ## Concept
 
